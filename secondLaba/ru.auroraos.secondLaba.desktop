@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.secondLaba
+Exec=/usr/bin/ru.auroraos.secondLaba
+Name=Template
+Name[ru]=Шаблон
+
+[X-Application]
+Permissions=
+OrganizationName=ru.auroraos
+ApplicationName=secondLaba
+ExecDBus=/usr/bin/ru.auroraos.secondLaba

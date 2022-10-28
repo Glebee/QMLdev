@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.thirdLaba
+Exec=/usr/bin/ru.auroraos.thirdLaba
+Name=Template
+Name[ru]=??????
+
+[X-Application]
+Permissions=
+OrganizationName=ru.auroraos
+ApplicationName=thirdLaba
+ExecDBus=/usr/bin/ru.auroraos.thirdLaba
